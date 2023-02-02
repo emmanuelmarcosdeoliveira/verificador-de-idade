@@ -1,5 +1,6 @@
 body {
 background-color: rgba(57, 57, 245, 0.733);
+/* background-image: url(https://img.quizur.com/f/img607731412d2e66.97858081.png?lastEdited=1618424138) */
 font-family: Arial, Helvetica, sans-serif;
 font-size: 1rem;
 }
@@ -20,8 +21,6 @@ section {
   
 }
 
-
-
 footer {
   
   color: #ffff;
@@ -36,4 +35,8 @@ footer a {
 
  footer a:hover{
   text-decoration: underline;
+   }
+
+   div {
+    text-align: center;
    }
