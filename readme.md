@@ -10,7 +10,7 @@
 ## Descrição:
 Nome |   Descrição
 ---- | ------------
-Verificador de idade | Nesse exercício foi criado um arquivo base **HTML**,**CSS** e **Javascript** com a finalidade de fazer uma verificação de idade de acordo com o valor "Ano" informado pelo usuário.
+Verificador de idade | Nesse exercício foi criado um arquivo base **HTML**,**CSS** e **JavaScript** com a finalidade de fazer uma verificação de idade de acordo com o valor "Ano" informado pelo usuário.
 ## Funcionalidades
 
 - calcular a idade da pessoa atráves da **digitação** do ano de nascimento pelo usuário.
@@ -39,7 +39,7 @@ Para fazer o deploy desse projeto rode
 ## Aprendizados
 
 - Trabalhando com Formulários. 
-- Funções em javascrip
+- Funções em JavaScript
 
 
 ## Referência
