@@ -2,7 +2,7 @@
 [Descrição](#descrição) | 
 [Funcionalidades](#funcionalidades) |
 [Screenshot ou Gif](#screenshots-ou-gif) |
-[Demostração](n#demonstração) |
+[Demostração](#demonstração) |
 [Deploy](#deploy) |
 [Aprendizados](#aprendizados) |
 [Referencias](#referência) |
